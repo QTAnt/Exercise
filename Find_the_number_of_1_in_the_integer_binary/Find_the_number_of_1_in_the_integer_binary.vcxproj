@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6C6C08B0-556B-4D2C-9530-800F3956CDB7}</ProjectGuid>
-    <RootNamespace>Legal_bracket_sequence_judgment</RootNamespace>
+    <ProjectGuid>{4D191A4A-2DB4-4DF2-BF9D-A62CF2997DB5}</ProjectGuid>
+    <RootNamespace>Find_the_number_of_1_in_the_integer_binary</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Legal_bracket_sequence_judgment.cpp" />
+    <ClCompile Include="Find_the_number_of_1_in_the_integer_binary.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

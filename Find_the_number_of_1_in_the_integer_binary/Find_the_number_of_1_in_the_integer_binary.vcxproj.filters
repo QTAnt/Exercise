@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Legal_bracket_sequence_judgment.cpp">
+    <ClCompile Include="Find_the_number_of_1_in_the_integer_binary.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
